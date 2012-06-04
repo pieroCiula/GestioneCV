@@ -1,0 +1,5 @@
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvBIZ\bin\Debug\CvBIZ.dll
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvBIZ\bin\Debug\CvBIZ.pdb
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvBIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvBIZ\obj\Debug\CvBIZ.dll
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvBIZ\obj\Debug\CvBIZ.pdb
