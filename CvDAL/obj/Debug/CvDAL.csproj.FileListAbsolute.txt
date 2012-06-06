@@ -1,0 +1,5 @@
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvDAL\bin\Debug\CvDAL.dll
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvDAL\bin\Debug\CvDAL.pdb
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvDAL\obj\Debug\CvDAL.dll
+C:\Users\win7dev\Documents\Visual Studio 2010\Projects\GestioneCV\CvDAL\obj\Debug\CvDAL.pdb
